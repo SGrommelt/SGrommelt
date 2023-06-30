@@ -9,9 +9,6 @@
 - 🔭 I’m currently working on a [Videogame App](https://github.com/SGrommelt/Videogames-App) that displays information about different videogames 🎮  
   
 
-- ❓ Ask me about anything related to Full-Stack technologies 👏  
-  
-
 - ⚡ Fun fact: I love videogames ❤️🎮  
   
 
