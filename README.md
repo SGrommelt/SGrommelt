@@ -5,15 +5,13 @@
 
 </p>
 
-<img src="./img/GithubGIF.gif" alt="" width="300" style="float: right;"/>
+<table border="0">
 
-<br/>  
+<tr>
 
-<br/> 
-
-<br/> 
-
-<p align="left">A bit more about me...</p>
+<td align="left" width="50%">
+    
+<p align="left">A little bit more about me...</p>
 
 - I'm a fullstack developer and a Computers Engineering student 👩‍💻
 
@@ -27,7 +25,21 @@
   
 - **Fun fact:** I love videogames ❤️🎮  
 
-<br/> 
+</td>
+
+<td align="right" width="50%">
+    
+<p align="center">
+
+<img src="./img/GithubGIF.gif" alt="" width="300" />
+
+</p>
+
+</td>
+
+</tr>
+ 
+</table>
 
 ##
 
