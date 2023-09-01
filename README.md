@@ -11,7 +11,7 @@
 
 <td align="left" width="60%">
     
-<p align="left">A little bit more about me...</p>
+<p align="left">A bit more about me...</p>
 
 - I'm a fullstack developer and a Computers Engineering student 👩‍💻
 
