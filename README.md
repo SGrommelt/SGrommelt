@@ -9,7 +9,7 @@
 
 <tr>
 
-<td align="left" width="50%">
+<td align="left" width="60%">
     
 <p align="left">A little bit more about me...</p>
 
