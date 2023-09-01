@@ -31,7 +31,7 @@
     
 <p align="center">
 
-<img src="./img/GithubGIF.gif" alt="" width="500" />
+<img src="./img/GithubGIF.gif" alt="" width="400" />
 
 </p>
 
