@@ -20,8 +20,6 @@
 - **Web Development:** Javascript, React, Node JS
 
 - **Game Development:** Unity, C#
-
-- I’m currently working on a [Videogame App](https://github.com/SGrommelt/Videogames-App) that displays information about different videogames 🎮  
   
 - **Fun fact:** I love videogames ❤️🎮  
 
